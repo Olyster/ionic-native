@@ -28,7 +28,7 @@ export interface SQLiteDatabaseConfig {
    */
   androidDatabaseLocation?: string;
   /**
-   * support opening pre-filled databases with https://github.com/litehelpers/cordova-sqlite-ext
+   * support opening pre-filled databases with https://github.com/storesafe/cordova-sqlite-evcore-extbuild-free
    */
   createFromLocation?: number;
   /**
